@@ -9,11 +9,7 @@ Show the min and max utilisation of the CPU cores in your laptop. Connect via US
 
 
 
-
-https://github.com/pyhys/cpumeter/assets/1586574/b5ac4c00-4751-48df-85b0-472ba182bac2
-
-
-
+https://github.com/pyhys/cpumeter/assets/1586574/e618666e-b38f-4fe2-83e1-2e9af869577b
 
 
 
