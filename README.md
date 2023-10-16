@@ -3,13 +3,16 @@
 
 ![](docs/images/instrument_web.jpg)
 
-Show the min and max utilisation of CPU cores in your laptop. Connect via USB!
-
-
-https://github.com/pyhys/cpumeter/assets/1586574/e8e45417-16b9-470c-bcc9-cdbabb5ba028
-
+Show the min and max utilisation of the CPU cores in your laptop. Connect via USB!
 
 ![](docs/images/instrument_and_box_web.jpg)
+
+
+
+https://github.com/pyhys/cpumeter/assets/1586574/bd168bb1-08ae-4780-b7be-f264444b6949
+
+
+
 
 Original indicator use in for example Hawker Hunter
 ---------------------------------------------------
@@ -28,12 +31,6 @@ https://www.jetphotos.com/photo/9365230
 Circuit design
 --------------
 Six voltages 0-24 V
-
-
-
-https://github.com/pyhys/cpumeter/assets/1586574/981d83d7-e37f-4bee-92cc-7a4f5a068faf
-
-
 
 DAC for analog outputs variant?
 
