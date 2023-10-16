@@ -1,0 +1,1 @@
+touch /tmp/cpumeter_timestamp

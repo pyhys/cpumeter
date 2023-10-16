@@ -1,0 +1,10 @@
+[Unit]
+Description=Daemon for CPU meter
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/opt/cpumeter/cpumeter_daemon.py
+
+[Install]
+WantedBy=multi-user.target

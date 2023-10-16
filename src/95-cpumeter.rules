@@ -1,0 +1,1 @@
+SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6014", TAG+="systemd", ENV{SYSTEMD_WANTS}="cpumeter.service"
